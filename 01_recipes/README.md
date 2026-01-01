@@ -1,0 +1,1 @@
+"This is a proeject after learning basic HTML, consisting of some images and text only"
